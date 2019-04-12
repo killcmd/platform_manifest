@@ -47,7 +47,7 @@
 <project path="packages/apps/Bluetooth" name="android_packages_apps_Bluetooth" remote="rr" /> 
 <project path="system/bt" name="platform_system_bt" remote="rr" />
 <project path="system/netd" name="android_system_netd" remote="rr" />
-<project name="android_device_essential_mata-2" path="device/essential/mata" remote="farts" revision="aosp"/>
+<project name="killcmd/android_device_essential_mata-2" path="device/essential/mata" remote="github" revision="red"/>
 <project name="celtare21/kernel_essential_msm8998-1" path="kernel/essential/msm8998" remote="github" revision="Artemis"/>
 <project name="celtare21/vendor_essential-1" path="vendor/essential" remote="github" revision="aicp"/>
   
